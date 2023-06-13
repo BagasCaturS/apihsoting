@@ -1,5 +1,5 @@
-{
-  "movies": [
+
+ [
     {
       "id": 1,
       "movie_name": "The Shawshank Redemption",
@@ -101,4 +101,3 @@
       "image_url": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_UF894,1000_QL80_.jpg"
     }
   ]
-}
